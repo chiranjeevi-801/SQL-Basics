@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Create database employee_details
 
 use employee_details
@@ -20,3 +21,6 @@ VALUES
 ('Abhilash','CM','Analyst',10000.00,'2021-07-10');
 
 select*from Employees4
+=======
+
+>>>>>>> e0b8599 ( SQL Temporary Tables and SQL Where Clause)
