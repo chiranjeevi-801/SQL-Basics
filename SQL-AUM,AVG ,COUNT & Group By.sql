@@ -42,9 +42,9 @@ from dbo.sales
 group by productID,StoreID
 
 
---COUNT :--
+--COUNT :--        
 
-select * from dbo.Sales
+select * from dbo.Sales 
 
 select count(*)[Number of Rows] from dbo.Sales
 
