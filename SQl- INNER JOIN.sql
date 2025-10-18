@@ -1,3 +1,10 @@
+ 
+--  The INNER JOIN keyword selects records that have matching values in both tables./ It returns only the rows that have matching values in both tables.
+
+
+-- INNER JOIN = Intersection of tables (matching rows only).
+
+
 DROP TABLE IF EXISTS table1;
 DROP TABLE IF EXISTS table2;
 
