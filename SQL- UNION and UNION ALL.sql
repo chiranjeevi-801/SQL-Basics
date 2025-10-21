@@ -11,9 +11,11 @@
 /*
 
 "UNION ALL":--
-*] The UNION ALL operator is used to combine the result-set of two or more SELECT statements.
+*] The UNION ALL operator is used to combine the result-set of two 
+or more SELECT statements.
 
-*] The UNION ALL operator includes all rows from each statement, including any duplicates.
+*] The UNION ALL operator includes all rows from each statement,
+including any duplicates.
 
 */
 
