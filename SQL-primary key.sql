@@ -53,3 +53,4 @@ add primary key (sid,age)
 
 alter table test_pk_2
 add primary key (sid)
+
